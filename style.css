@@ -484,14 +484,14 @@ ul {
     } 
 
     .text-head {
-        font-size: 32px;
+        font-size: 30px;
         height: 16em;
-        padding-left: 60px;
+        padding-left: 20px;
         line-height: 53px;  
     }
 
     .line {
-        font-size: 39px;
+        font-size: 35px;
         margin-top: -60px;
     } 
 
