@@ -25,7 +25,7 @@
 /* Land1 */
 
  .land-1 .jumbotron {
-    background-image: url('assets/bg_header.png');
+    background-image: url('../img/bg_header.png');
     background-size: cover;
     background-position: bottom;
     height:600px;
@@ -48,7 +48,7 @@
 .land-2 .jumbotron {
     height: 500px;
     background-color: white;
-    background-image: url('assets/img_japan.png');
+    background-image: url('../img/img_japan.png');
     background-position: right bottom;
     margin-bottom: 80px;
     background-size: 280px;
@@ -82,7 +82,7 @@
 
 /* Land3 */
 .land-3 .jumbotron {
-    background-image: url('assets/bg_land.png');
+    background-image: url('../img/bg_land.png');
     background-color: white;
     background-repeat: no-repeat;
     background-size: 70%;
@@ -127,7 +127,7 @@
 
 /* Land4 */
 .land-4 .jumbotron {
-    background-image: url('assets/bg_land4.png');
+    background-image: url('../img/bg_land4.png');
     background-color: white;
     background-repeat: no-repeat;
     background-size: 80%;
@@ -185,7 +185,7 @@ footer {
 
 /* Land5 */
 .land-5 .jumbotron {
-    background-image: url('assets/bg_land.png');
+    background-image: url('../img/bg_land.png');
     background-color: white;
     background-repeat: no-repeat;
     background-size: 70%;
@@ -216,7 +216,7 @@ footer {
 /* Land6 */
 
 .land-6 .jumbotron {
-    background-image: url('assets/bg_recruit.png');
+    background-image: url('../img/bg_recruit.png');
     background-color: white;
     background-repeat: no-repeat;
     background-size: cover;
@@ -260,7 +260,7 @@ ul {
 /* Land7 */
 
 .land-7 .jumbotron {
-    background-image: url('assets/bg_land4.png');
+    background-image: url('../img/bg_land4.png');
     background-position: center;    
     margin-top: 200px; 
 }
